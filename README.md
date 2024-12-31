@@ -23,7 +23,7 @@ pak::pak("wurucheng123/spicedata")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-# library(spicedata)
+library(spicedata)
 ## basic example code
 ```
 
