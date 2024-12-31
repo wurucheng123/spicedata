@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # spicedata
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/wurucheng123/spicedata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wurucheng123/spicedata/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/wurucheng123/spicedata/graph/badge.svg)](https://app.codecov.io/gh/wurucheng123/spicedata)
 <!-- badges: end -->
 
 The goal of spicedata is to ...
